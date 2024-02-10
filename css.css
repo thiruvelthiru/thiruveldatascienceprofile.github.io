@@ -1,0 +1,27 @@
+.conousel-inner{
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+}
+
+.carousel-indicators{
+    left: 0;
+    width: 100%;
+    margin-left: 0;
+    bottom:inherit;
+    margin-top:  -9px;
+    position:absolute;
+    z-index: 15;
+    padding-left: 0;
+    list-style: none;
+    text-align: center;
+}
+ol{
+    margin-bottom: 12.5px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end:1em ;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
